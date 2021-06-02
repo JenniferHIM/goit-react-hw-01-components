@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JenniferHIM/goit-react-hw-01-components/static/css/main.9c0444da.chunk.css",
+    "main.js": "/JenniferHIM/goit-react-hw-01-components/static/js/main.f777d17b.chunk.js",
+    "main.js.map": "/JenniferHIM/goit-react-hw-01-components/static/js/main.f777d17b.chunk.js.map",
+    "runtime-main.js": "/JenniferHIM/goit-react-hw-01-components/static/js/runtime-main.9601f1c5.js",
+    "runtime-main.js.map": "/JenniferHIM/goit-react-hw-01-components/static/js/runtime-main.9601f1c5.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/JenniferHIM/goit-react-hw-01-components/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.cb7bf7b3.chunk.js": "/JenniferHIM/goit-react-hw-01-components/static/js/2.cb7bf7b3.chunk.js",
+    "static/js/2.cb7bf7b3.chunk.js.map": "/JenniferHIM/goit-react-hw-01-components/static/js/2.cb7bf7b3.chunk.js.map",
+    "static/js/3.bbc7e280.chunk.js": "/JenniferHIM/goit-react-hw-01-components/static/js/3.bbc7e280.chunk.js",
+    "static/js/3.bbc7e280.chunk.js.map": "/JenniferHIM/goit-react-hw-01-components/static/js/3.bbc7e280.chunk.js.map",
+    "index.html": "/JenniferHIM/goit-react-hw-01-components/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/JenniferHIM/goit-react-hw-01-components/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.9c0444da.chunk.css.map": "/JenniferHIM/goit-react-hw-01-components/static/css/main.9c0444da.chunk.css.map",
+    "static/js/2.cb7bf7b3.chunk.js.LICENSE.txt": "/JenniferHIM/goit-react-hw-01-components/static/js/2.cb7bf7b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9601f1c5.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.cb7bf7b3.chunk.js",
+    "static/css/main.9c0444da.chunk.css",
+    "static/js/main.f777d17b.chunk.js"
+  ]
+}
